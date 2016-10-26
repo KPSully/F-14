@@ -1,0 +1,7 @@
+In the twelfth video, he talks about using generators and filters.
+Rather than painting on a mask, you can use a generator. Generators can only be applied to a mask.
+You can interactively modify the settings of a generator. Every generator has image inputs.
+All the baked data will be automatically used when a generator is applied.
+You can combine two generators with a blending mode. With the paint effect, you can paint in and out the effects. 
+Set the blending mode to multiply, this allows you to modify the effect stack.
+Filters can process the generators before they reach the mask.
