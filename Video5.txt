@@ -1,0 +1,11 @@
+In the fifth video, he discusses baking textures. Bake textures is available for all materials in the projects.
+When you bake a texture it is applied to the texture set map.
+You can select the bake texture option to pull up a menu. In the menu, there are the type of maps that you can bake.
+These maps are specific to the generator. All anchors are enabled by default, and have parameters both as a whol and individually.
+When you are not using a cage mesh, you should use the frontal and rear distance setting to create a virtual envelope. The rays are then shot from the envelope.
+If you you set average normals off, you can make the virtual envelope not continuous.
+How one knows how to set the frontal and rear distance values is just trial and error.
+The world base normal has no parameters
+Ambient occlusion has a quality control to remove noise.
+ID baker makes a mask that is used for baking.
+You can use colors to make a mask selection by using the mask to color selection.
