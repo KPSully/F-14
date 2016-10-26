@@ -1,0 +1,7 @@
+In the eleventh video, he talks about masking. Masks are created on layers.
+When you are working with a map, white is opaque and black in transparent.
+A mask allows you to paint with greyscale values to modify the opacity.
+You can copy and paste a mask. You can use a particle brush on masks. You can also you the geometry tool to select faces to create masks.
+You can also select UV shells. You can select faces and remove the mask from those faces.
+You can also use a mask to help you accurately paint. You can use the I key to invert the mask.
+You can also use colors to generate a mask.
