@@ -1,0 +1,9 @@
+In the thirteenth video, he talks about using the projection tool.
+The projection tool can be found at the top bar.
+This allows you to project a material onto a mesh. The projection tool is used with a full material. The stencil tool is used as a secondary screen space mask.
+Material mode will give a popup of all the materials in the shelf.
+You can control the opacity.
+You project color, height, roughness, metal, and ambient occlusion all at the same time.
+If you hold down the S key and the right mouse button, you can scale the projection.
+If you hold down the S key and the left mouse button, you can rotate.
+If you hold down the S key and the middle mouse button, you can pan.
