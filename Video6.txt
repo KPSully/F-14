@@ -1,0 +1,10 @@
+In the sixth video, he discusses the viewport. 3D navigation is akin to Maya's 3D navigation, you use the alt key as a mod key and use mouse buttons to pan, scroll, and rotate.
+To rotate you press Alt+Left click.
+To pan you use Alt+Middle click.
+To zoom, you use the scroll wheel.
+Where ever you click on the mesh will be the pivot point.
+Shift+Right click to change the lighting.
+F will focus on the mesh.
+Alt and shift will enable snapping.
+M takes you to the material mode.
+C runs through all the channels.
