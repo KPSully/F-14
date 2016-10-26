@@ -1,0 +1,8 @@
+In the tenth video, he discusses particle brushes.
+Particle brush presets0 work similar brush presets.
+Particle brushes have controls for the particle physics.
+You start with one of the presets and modify the settings.
+If you want the particles to fall further down the mesh, you need to increase the particle life.
+Gravity factor makes the particles fall quicker. Gravity factor can also cause wind. Wind can be used to push the particles in different directions along the x and y axes.
+Distance time, is how long between each particle.
+Particles won't just coillide with the mesh geometry but will also take the normal map into account.
