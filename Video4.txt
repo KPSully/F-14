@@ -1,0 +1,5 @@
+In the fourth video, he talks about texture sets. A texture set is a material. You can import these through the model file.
+You can apply full materials through the smart materials. You can hide certain materials, or even solo one material.
+You can add channels to each material that are specific to the texture sets.
+By default, Substance painter will only display the selected material. You can change this by going to Edit>settings>and change the material solo to false.
+You can change resolution at any time. This is not just an upscale, it is recomputed and is completely accurate. You can then export them at that resolution.
