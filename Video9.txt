@@ -1,0 +1,11 @@
+In the ninth video, he discusses painting and brush settings.
+When you paint in the view port, you are using a combination of the brush and the layer settings.
+When you select the presets, the preset changes the brush settings.
+Size and flow can be affected by pen pressure.
+Alpha changes the shape of the brush tip. The alphas for the presets are substance files.
+Tangent is painting in 3D space. The brush orientation will align to the meshes tangent.
+Camera Projection works best when the view port is looking flat at the face.
+UV allows you to paint without having seams. But this is not always good. You can also make it stay on one UV.
+If you change the brush size to view port the size of the brush changes with the zoom of the viewport.
+Object leaves it the same do to the relative size of the object being painted/stamped.
+You can mask a stroke based on an angle by enabling the back face culling option and limiting the rotation.
