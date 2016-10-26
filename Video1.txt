@@ -1,0 +1,6 @@
+The first video talks about PBR. PBR is a method of shading that takes into account how light hits surfaces.
+Substance Painter is a tool that creates PBR map types and exports BMPs for use with PBR shaders such as Unity.
+PBR is based on real world measured data. It also allows for consistent materials.
+PBR has 2 main workflows, Metallic/Roughness and Specular/Glossiness. Both use the same accurate physical data.
+Metallic has three core maps: base color and metal reflectance, metal map, and dielectric(nonmetal).
+Roughness is how much of the light has been broken up. Dielectric shaders automatically use 4% reflectance.
