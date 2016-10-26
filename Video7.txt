@@ -1,0 +1,9 @@
+In the seventh video, he talks about layers. Each material has it's own layer stack.
+There are two types of layers that can be used. The first is the paintable layer. You can select a brush and paint onto the layer.
+You can oragnize layers by draging and dropping.
+Each layer has a set of blending modes. They also have an opacity section.
+Pressing the minus button will remove a layer.
+The second type of layer is a fill layer. You can create a fill layer by clicking the paint bucket.
+A fill layer is not  paintable, but has setting for fill and material channels. This has the same blending modes and opacity section as the paintable layer.
+Ona fill layer you can change the size of the tiling.
+On a fill layer you can change the projection type.
