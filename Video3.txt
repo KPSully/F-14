@@ -1,0 +1,5 @@
+In the third video he talks about importing textures. He discusses the shelf, which is a window that is split into three sections, each is a grouping of textures.
+The shelf contains assets and presets to be used in a project. To import a material, go to the textures tab, then select the textures and drog and drop them into the textures tab.
+Select the material you want to add the normal map to it.  By clicking on "select normal", a popup with previews of the textures. You can also drag and drop the map onto the button.
+You can drag and drop the alphas into the alphas tab. These alphas can be used similarly to the normals. To remove textures not being used, go to file then clean. This will delete unsused textures.
+If you want to use the files for all projects put the files in Documents>Substance Painter>shelf.
