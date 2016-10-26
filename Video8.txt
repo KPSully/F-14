@@ -1,0 +1,7 @@
+In the eighth video, he talks about materials and channels.
+By default, you have base channels base color, Height, Roughness, and Metalic.
+You can interactively change the roughness. You can disable the height information.
+You can select a material and paint with it, but you are painting across all channels.
+The colors determine the artributes of the material. You can work with any number of channels at the same time.
+You don't have to paint all channels, you can just paint the information you want.
+You can fix seams by switching to planar projection.
