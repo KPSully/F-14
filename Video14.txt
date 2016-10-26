@@ -1,0 +1,5 @@
+In the fourteenth video, he talks about using smart materials. Smart materials are a collection layers that have been saved as a preset material.
+This allows for complex materials. You right click on the layer group and make the smart material. This allows you to save it and use this material on other projects.
+The image inputs are automatically connecting the connection and the ambient occlusion for the texture set is has been applied to. 
+In order for this auto connection to work the textures need to be placed into the additonal map inputs. You can also change the material.
+All layers are intact and can be modified.
