@@ -1,0 +1,7 @@
+The second video talks about how to import meshes into Substance Painter.
+By going to file and new you open up the new project menu. You then add the mesh you want to the project. You then choose which gfx system you wish to use.
+You can change any of the settings you set in this menu at any time. When assigned the texture maps are only for baked information.
+When a mesh is imported it must contain the same materials.
+You can not change the materials added to a materials. However, you can the polygons and UV layout.
+To update normals, select bake textures, and select only normal and then select and choose bake texture.
+This changes to match the new UV layout. None of the layers have been combined.
